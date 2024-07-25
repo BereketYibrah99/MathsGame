@@ -1,0 +1,177 @@
+#div1{
+    background: url(/back.jpeg);
+    background-size: cover;
+    text-align: center;
+    background-color: rgb(94, 86, 86);
+    position: absolute;
+    left:35%;
+    top: 10%;
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 800px;
+    width: 900px;
+    box-align: center;
+    padding-bottom: 20px;
+}
+#div2{
+    background: url(/screen.webp);
+    background-size: cover;
+    bottom:90%;
+    padding: 20px;
+    background-color: rgb(119, 119, 113);
+    width: 856px;
+    height: 200px;
+    border-radius: 20px;
+    font-size: 20px;
+    overflow: hidden;
+    border: 2px solid rgb(129, 146, 35);
+} 
+#reply{
+    position: absolute;
+    top: 50%;
+    left: 12.6%;
+    text-align: center;
+    font-size: 30px;
+    overflow: hidden;
+}
+#imag{
+    position: absolute;
+    top: 27%;
+    left: 38.7%;
+}
+.gamee{
+    padding: 20px;
+    border-radius: 10px;
+    padding-right: 200px;
+    border: 2px solid teal;
+    background: url(/butt.png);
+    background-color: rgba(199, 229, 229, 0.793);
+    background-size: cover;
+    width: 44px;
+    height: 90px;
+    font-size: 60px;
+    text-align: right;
+    color: white;
+}
+#result{
+    text-align: center;
+    background: url(/home.jpeg);
+    background-size: cover;
+}
+.gamee:hover{
+    background-color: bisque;
+    background: url(/butt\ copy\ 2.png);
+    background-size: cover;
+}
+#comment{
+    background-color: bisque;
+    height: 810px;
+    width:450px;
+    position: absolute;
+    top: 11%;
+    left: 5%;
+    border-radius: 20px;
+    border: 3px solid rgb(176, 224, 180)
+}
+.gamee:active{
+    background-color: rgb(71, 68, 68);
+    background: url(/butt\ copy.png);
+    background-size: cover;
+}
+#game{
+    text-align: center;
+    background: url(/moon.jpeg);
+    background-size: cover;
+}
+.homee{
+    position: absolute;
+    bottom: 55%;
+    left: 25%;
+    text-align: center;
+    font-family: inherit;
+    width: 900px;
+    height: 90px;
+    padding: 20px;
+    border-radius: 20px;
+    padding-right: 200px;
+    border: 2px solid teal;
+    background: url(/butt.png);
+    background-color: rgba(27, 235, 235, 0.793);
+    background-size: cover;
+    font-size: 60px;
+    color: rgb(47, 243, 3);
+}
+#submit{
+    width: 660px;
+}
+#quit{
+    width: 660px;
+}
+#tex{
+    width: 700px;
+    height: 50px;
+    position: absolute;
+    top: 20%;
+    left:10.8%;
+    font-size: 20px;
+    background-color: rgb(236, 237, 238);
+    border: 3px solid rgb(13, 12, 12);
+    overflow: hidden;
+}
+#tex2{
+    width: 70px;
+    height: 20px;
+    position: absolute;
+    top: 2%;
+    left:88%;
+    font-size: 20px;
+    background-color: rgb(24, 230, 69);
+    border: 3px solid rgb(13, 12, 12);
+    overflow: hidden;
+}
+.homee:hover{
+    background-color: rgb(228, 140, 33);
+    background: url(/butt\ copy\ 2.png);
+    background-size: cover;
+}
+.homee:active{
+    text-align: center;
+    background: url(/butt\ copy.png);
+    background-size: cover;
+}
+#finish{
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    background: url(/butt.png);
+    background-color: rgba(199, 229, 229, 0.793);
+    background-size: cover;
+    border-radius: 20px;
+    position: absolute;
+    left:90%;
+    top: 50%;
+}
+#finish:hover{
+    background-color: bisque;
+    background: url(/butt\ copy\ 2.png);
+    background-size: cover;
+}
+#finish:active{
+    background-color: rgb(71, 68, 68);
+    background: url(/butt\ copy.png);
+    background-size: cover;
+}
+#home{
+    text-align: center;
+    background: url(/home.jpeg);
+    background-size: cover;
+}
+#head{
+    text-align: center;
+    color: aliceblue;
+    border-radius: 20px;
+    left: 50%;
+    height: 50px;
+    font-size: 36px;
+    background-color: rgb(50, 50, 81);
+}
